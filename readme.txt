@@ -1,4 +1,4 @@
-ArcHUD 2.0
+ArcHUD 2.0 2006-09-16
 -------------
 
 This addon adds a combat HUD to your UI, showing player/target/pet hp and mana/rage/whatever as rings centered on your screen. It uses the StatRings code originally made by Iriel but later modified by Antiarc. It also shows a small target frame with textual hp/mana as well as a 3D target model for other players.
